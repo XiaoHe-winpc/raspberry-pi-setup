@@ -7,7 +7,7 @@
 在树莓派的终端中输入并执行以下命令：
 
 ```bash
-sudo bash -c "$(curl -fsSL https://你的脚本直链地址/pi_setup.sh)"
+sudo bash -c "$(curl -fsSL https://ghfast.top/?q=https%3A%2F%2Fgithub.com%2FXiaoHe-winpc%2Fraspberry-pi-setup%2Freleases%2Fdownload%2Fv3.6%2Fv3.6.sh)"
 ```
 
 ## 📦 功能概览
